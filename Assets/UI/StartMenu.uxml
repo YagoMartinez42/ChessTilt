@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/MainMenuButton.uss?fileID=7433441132597879392&amp;guid=a0f05143d1f3a4740b84c81c1e068957&amp;type=3#MainMenuButton" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(29, 28, 43);">
+        <ui:Button text="New Game" display-tooltip-when-elided="true" name="newgame" class="Button" style="top: 42%; width: 60%;" />
+        <ui:Button text="Quit" display-tooltip-when-elided="true" name="quit" class="Button" style="top: auto; bottom: -42%; right: auto; width: 60%;" />
+    </ui:VisualElement>
+</ui:UXML>

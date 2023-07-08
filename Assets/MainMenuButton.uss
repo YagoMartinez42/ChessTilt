@@ -1,0 +1,5 @@
+.Button {
+    left: 20%;
+    background-color: rgb(128, 128, 64);
+    opacity: 1;
+}
